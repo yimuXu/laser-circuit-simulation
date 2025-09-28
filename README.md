@@ -1,3 +1,4 @@
+# laser-circuit-simulation
 this is a laser circuit simulation program writed in python
 
 Feature
